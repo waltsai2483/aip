@@ -1,0 +1,45 @@
+{
+  "appName": "清大校務資訊平台",
+  "campusNewsName": "校園最新消息",
+
+  "initializing": "初始化",
+
+  "notificationDeptDialog": "選擇校系",
+  "notificationTypeDialog": "選擇公告類型",
+  "selectCampusDialog": "選擇校區",
+
+  "busNotAvailable": "停駛",
+
+  "mainCampus": "校本部",
+  "nandaCampus": "南大校區",
+
+  "campusPhone": "總機",
+  "campusEmergencyPhone": "校安緊急電話",
+  "libraryPhone": "圖書館",
+  "counselCenterPhone": "諮詢中心",
+
+  "readMore": "更多...",
+
+  "minute": "分",
+  "@minute": {
+    "placeholders": {
+      "suffix": {
+        "type": "String"
+      }
+    }
+  },
+  "busUpdateCountdown": "在 {val} 秒後更新",
+  "@busUpdateCountdown": {
+    "placeholders": {
+      "val": {
+        "type": "int"
+      }
+    }
+  },
+
+  "tomorrow": "明日",
+  "busDeparted": "已離站",
+  "busArriving": "進站中",
+  "lastBus": "結束發車",
+  "noServiceToday": "今日停駛"
+}

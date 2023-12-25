@@ -1,0 +1,45 @@
+{
+  "appName": "NTHU AiP",
+  "campusNewsName": "Campus News",
+
+  "initializing": "Initializing...",
+
+  "notificationDeptDialog": "Select Departments",
+  "notificationTypeDialog": "Select Notification Types",
+  "selectCampusDialog": "Select Campus",
+
+  "busNotAvailable": "Not Available",
+
+  "mainCampus": "Main Campus",
+  "nandaCampus": "Nanda Campus",
+
+  "campusPhone": "Phone",
+  "campusEmergencyPhone": "Emergency",
+  "libraryPhone": "Library",
+  "counselCenterPhone": "Counseling Center",
+
+  "readMore": "Read More...",
+
+  "minute": "minute{suffix}",
+  "@minute": {
+    "placeholders": {
+      "suffix": {
+        "type": "String"
+      }
+    }
+  },
+  "busUpdateCountdown": "Update in {val} seconds",
+  "@busUpdateCountdown": {
+    "placeholders": {
+      "val": {
+        "type": "int"
+      }
+    }
+  },
+
+  "tomorrow": "Tomorrow",
+  "busDeparted": "Departed",
+  "busArriving": "Arriving",
+  "lastBus": "Service Ends",
+  "noServiceToday": "No Service Today"
+}
